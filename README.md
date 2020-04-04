@@ -14,7 +14,7 @@ Run `Recipe2BetterRecipe.ipynb` in jupyter with python 3.5+
 
 **Recipes** from the Kaggle [What's cooking?](https://www.kaggle.com/c/whats-cooking-kernels-only)
 
-**Seasonality table** from [Yves Leers & Jean-Luc Fessard](http://www.buchetchastel.fr/ca-chauffe-dans-nos-assiettes-yves-leers-9782283030219).
+**Seasonality table** from [Yves Leers and Jean-Luc Fessard](http://www.buchetchastel.fr/ca-chauffe-dans-nos-assiettes-yves-leers-9782283030219).
 
 ## Paper
 
@@ -33,7 +33,7 @@ Feel free to suggest other ideas and contribute to the project:
 
 * Improve code readability and reusability. Add documentation and tests.
 
-* Edit the current seasonality table with what's truely local-seasonal in Paris (produced within 250km).
+* Edit seasons/paris-fruits.txt and seasons/paris-vegs.txt with what's truely local-seasonal in Paris (produced within 250km).
 
 * Add more locations and seasonality tables. Why not start with your city? :)
 
