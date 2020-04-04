@@ -29,13 +29,13 @@ Check [local-seasonal.org/about](https://www.local-seasonal.org/about)
 Below is a short **todo list** (suggestions) to contribute to this repository. <br>
 Feel free to suggest other ideas and contribute to the project:
 
-* Quantitatively measure how well the new ingredients fit with the other ingredients in a recipe, e.g. with Human judgement or a discriminator.
+* Quantitatively measure how well the new ingredients fit with the other ingredients in a recipe, <br> e.g. with Human judgement or a discriminator.
 
 * Improve code readability and reusability. Add documentation and tests.
 
-* Edit seasons/paris-fruits.txt and seasons/paris-vegs.txt with what's truely local-seasonal in Paris (produced within 250km).
+* Edit `seasons/paris-fruits.txt` and `seasons/paris-vegs.txt` with what's truely local-seasonal in Paris (produced within 250km).
 
-* Add more locations and seasonality tables. Why not start with your city? :)
+* Add more locations and seasonality tables. <br> Why not start with your city? :)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
