@@ -1,0 +1,12 @@
+broccoli, carrot, cauliflower, celery, endive, fennel, garlic, salad, jerusalem artichoke, leek, mushroom, mache, onion, bell pepper, potato, pumpkin, spinach, squash, turnip
+broccoli, carrot, cauliflower, celery, endive, fennel, garlic, salad, jerusalem artichoke, leek, mushroom, mache, onion, bell pepper, potato, pumpkin, spinach, turnip
+artichoke, broccoli, carrot, cauliflower, celery, endive, fennel, garlic, leek, mushroom, mache, onion, radish, spinach, turnip
+herb, artichoke, asparagus, cauliflower, cucumber, endive, fennel, garlic, leek, mushroom, mache, onion, radish, spinach, turnip
+herb, artichoke, asparagus, beet, cucumber, garlic, salad, jerusalem artichoke, mushroom, pea, bell pepper, potato, radish, spinach, turnip, zucchini
+herb, artichoke, asparagus, beet, cucumber, eggplant, salad, jerusalem artichoke, mushroom, pea, bell pepper, potato, radish, zucchini
+herb, artichoke, beet, cucumber, eggplant, garlic, green bean, salad, jerusalem artichoke, mushroom, bell pepper, potato, zucchini
+herb, artichoke, beet, cucumber, eggplant, garlic, green bean, salad, jerusalem artichoke, mushroom, bell pepper, potato, zucchini
+herb, artichoke, beet, broccoli, carrot, cauliflower, cucumber, eggplant, garlic, green bean, salad, jerusalem artichoke, leek, mushroom, onion, parsnip, bell pepper, potato, zucchini
+herb, beet, broccoli, carrot, cauliflower, celery, cucumber, endive, garlic, salad, jerusalem artichoke, leek, mushroom, mache, onion, parsnip, bell pepper, potato, pumpkin, shallot, spinach, squash, turnip
+herb, broccoli, carrot, cauliflower, celery, endive, garlic, salad, jerusalem artichoke, leek, mushroom, mache, onion, parsnip, bell pepper, potato, pumpkin, shallot, spinach, squash, turnip
+broccoli, carrot, cauliflower, celery, endive, fennel, garlic, salad, jerusalem artichoke, leek, mushroom, mache, onion, parsnip, bell pepper, potato, pumpkin, shallot, spinach, squash, turnip

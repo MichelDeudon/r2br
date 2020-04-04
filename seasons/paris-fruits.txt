@@ -1,0 +1,12 @@
+apple, avocado, banana, clementine, grapefruit, kiwi, lemon, mango, orange, pear, persimmon, pineapple, pomegranate, tangerine
+apple, avocado, banana, clementine, grapefruit, kiwi, lemon, mango, orange, pear, pomegranate, tangerine
+apple, avocado, banana, grapefruit, kiwi, lemon, mango, orange, pear, tangerine
+apple, avocado, banana, grapefruit, kiwi, lemon, mango, orange, pear
+apple, banana, grapefruit, lemon, mango, orange, strawberry, tomato
+apricot, banana, cherry, lemon, melon, nectarine, peach, raspberry, strawberry, tomato, watermelon
+apricot, banana, black currant, fig, lemon, melon, nectarine, peach, plum, raspberry, tomato, watermelon
+banana, blackberry, black currant, blueberry, fig, lemon, melon, nectarine, peach, pear, plum, raspberry, watermelon, grape
+apple, banana, blackberry, blueberry, fig, hazelnut, lemon, melon, nectarine, peach, pear, plum, quince, tomato, walnut, grape
+apple, banana, blackberry, blueberry, fig, hazelnut, kiwi, lemon, pear, persimmon, quince, walnut, grape
+apple, avocado, banana, hazelnut, kiwi, lemon, mango, pear, persimmon, pomegranate, walnut
+apple, avocado, banana, clementine, grapefruit, kiwi, lemon, mango, orange, pear, persimmon, pomegranate, tangerine
